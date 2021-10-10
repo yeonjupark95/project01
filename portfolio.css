@@ -55,6 +55,7 @@ main {
 p {
     font-family: 'Comfortaa', cursive;
     display: block;
+    padding-right: 3vw;
     overflow: auto;
 }
 
