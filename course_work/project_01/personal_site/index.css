@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100&display=swap');
+div {
+    display: inline-block;
+}
+
+header {
+    top: 0;
+    position: fixed;
+    display: block;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.buttons {
+    border: none;
+    font-family: 'Mukta', sans-serif;
+    font-size: 16px;
+    padding: 0.25em;
+    margin: 0.2em;
+    background-color: rgb(247, 243, 243);
+}
+
+#home {
+    color: #FFC93C;
+}
+
+.buttons:hover {
+    color: #FFC93C;
+    background-color: #B97A95;
+}
+
+.title {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 55px;
+    font-weight: 100;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+main {
+    margin-top: 10em;
+    padding: 3em;
+    background-color: rgb(207, 217, 247);
+    display: block;
+}
+
+#img1 {
+    max-width: 35vw;
+    padding: 1em;
+    margin-top: 3em;
+    margin-bottom: 10em;
+    float: left;
+}
+
+.block-content {
+    max-width: 43vw;
+    text-align: left;
+    margin-right: 1em;
+    margin-top: 4em;
+    padding: 1em;
+    background-color: rgb(247, 243, 243);
+    float: right;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+    overflow: auto;
+}
+
+#p1 {
+    font-family: 'Gluten', cursive;
+    font-size: 35px;
+    font-weight: 800;
+    letter-spacing: 10px;
+    color: rgba(58, 57, 57, 0.562);
+    text-shadow: 2px 2px 0 #b97a9586;
+}
+
+.YouTube {
+    float: left;
+    padding: 1em;
+    padding-bottom: 3.3em;
+    margin-top: 2em;
+    width: 460px;
+    height: 258.75px;
+}
+
+footer {
+    display: block;
+    bottom: 0px;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}
+
+.footer-message {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: -1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+#instagram {
+    max-width: 25px;
+    max-height: 25px;
+    margin-right: 0.5em;
+    padding: 0.25em;
+}
+
+#instagram:hover {
+    opacity: 0.7;
+}
+
+#linkedin {
+    max-width: 25px;
+    max-height: 25px;
+    margin-right: 0.5em;
+    padding: 0.25em;
+}
+
+#linkedin:hover {
+    opacity: 0.7;
+}
+
+#youtube {
+    max-width: 25px;
+    max-height: 25px;
+    margin-right: 0.5em;
+    padding: 0.25em;
+}
+
+#youtube:hover {
+    opacity: 0.7;
+}
