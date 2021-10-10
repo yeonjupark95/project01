@@ -56,7 +56,7 @@ main {
 
 #img1 {
     display: block;
-    width: 35vw;
+    height: 85vh;
     margin-top: 10vh;
     margin-bottom: 20vh;
     padding-top: 3vh;
@@ -68,14 +68,12 @@ main {
 
 .block-content {
     display: block;
-    width: 40vw;
-    height: 75vh;
+    width: 35vw;
+    height: 85vh;
     margin-top: 13vh;
-    margin-bottom: 20vh;
-    padding-top: 3vh;
+    margin-bottom: 23vh;
     padding-right: 3vw;
     padding-left: 3vw;
-    padding-bottom: 3vh;
     text-align: left;
     background-color: rgb(247, 243, 243);
     float: right;
