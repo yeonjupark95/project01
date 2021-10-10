@@ -81,6 +81,8 @@ p {
 .project1 {
     margin-top: 3vh;
     margin-bottom: 3vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
     background-color: rgb(247, 243, 243);
 }
 
@@ -105,6 +107,8 @@ hr {
 .project2 {
     margin-top: 3vh;
     margin-bottom: 3vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
     background-color: rgb(247, 243, 243);
 }
 
@@ -124,6 +128,8 @@ hr {
 .project3 {
     margin-top: 3vh;
     margin-bottom: 20vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
     background-color: rgb(247, 243, 243);
 }
 

@@ -103,7 +103,7 @@ p {
     margin-left: 2vw;
     margin-bottom: 4vh;
     padding-top: 1vh;
-    padding-bottom: 5vh;
+    padding-bottom: 1vh;
     padding-left: 1vw;
     padding-right: 8vw;
     background-color: rgb(247, 243, 243);
@@ -187,21 +187,6 @@ hr {
     margin-right: 2vw;
     margin-left: 2vw;
     margin-bottom: 4vh;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    padding-left: 1vw;
-    padding-right: 0vw;
-    background-color: rgb(247, 243, 243);
-    float: right;
-}
-
-.last2 {
-    text-align: left;
-    width: 47vw;
-    margin-top: -20vh;
-    margin-right: 2vw;
-    margin-left: 2vw;
-    margin-bottom: 20vh;
     padding-top: 1vh;
     padding-bottom: 1vh;
     padding-left: 1vw;
