@@ -182,14 +182,14 @@ hr {
 
 .last1 {
     text-align: left;
-    width: 47vw;
+    width: 45vw;
     margin-top: 4vh;
     margin-right: 2vw;
-    margin-left: 2vw;
+    margin-left: 4vw;
     margin-bottom: 20vh;
     padding-top: 1vh;
     padding-left: 1vw;
-    padding-right: 3vw;
+    padding-right: 1vw;
     background-color: rgb(247, 243, 243);
     float: right;
 }
